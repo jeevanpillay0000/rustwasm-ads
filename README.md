@@ -7,8 +7,8 @@ The repository should be able to be compiled down to WebAssembly.
 
 ## Scope
 Heaps and Trees
-- Binomial
-- Fibonacci
+- [Binomial](https://www.cl.cam.ac.uk/teaching/1011/AlgorithII/1978-Vuillemin-queues.pdf)
+- [Fibonacci](http://bioinfo.ict.ac.cn/~dbu/AlgorithmCourses/Lectures/Fibonacci-Heap-Tarjan.pdf)
 - B-Trees
 
 Linear Pattern Matching
